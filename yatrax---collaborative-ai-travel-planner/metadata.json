@@ -1,0 +1,6 @@
+{
+  "name": "WayTogether - Collaborative AI Travel Planner",
+  "description": "Collaborative AI-powered group travel planning platform with living itineraries, multi-member preference consensus, Google Chat spaces collaboration, Dijkstra route optimization, interactive Google Maps, and real-time synchronization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
